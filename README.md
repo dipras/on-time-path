@@ -165,6 +165,13 @@ Project ini dibuat untuk keperluan pembelajaran mata kuliah **Struktur Data** di
 
 - **Mata Kuliah**: Struktur Data
 - **Institusi**: Telkom University
+- **Kelas**: SE0702
+- **Anggota Kelompok**:
+```
+Aldy Prastyo - 103082400021
+Alif Akbar - 103082400035
+Muh Aqsa Sirojudin - 103082400004
+```
 
 ---
 
